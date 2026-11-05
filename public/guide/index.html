@@ -400,6 +400,15 @@ footer{margin-top:40px;padding-top:18px;border-top:1px solid var(--line);color:v
   let state = load();
   state.done ??= {}; state.choice ??= {};
 
+  // ── 압축 파일 ──
+  // 사이트에서 열면 같은 사이트의 /download/ 파일을 받는다. 폴더에서 이 파일을 바로 열었거나(file://)
+  // 그 사이트에 압축 파일이 없으면 원본 사이트의 파일로 바꾼다.
+  const ORIGIN_ZIP = 'https://speech-organs.vercel.app/download/speech-organs.zip';
+  const zipLink = document.getElementById('zip-link');
+  const useOrigin = () => { zipLink.href = ORIGIN_ZIP; };
+  if (location.protocol === 'file:') useOrigin();
+  else fetch(zipLink.href, { method: 'HEAD' }).then(r => { if (!r.ok) useOrigin(); }).catch(useOrigin);
+
   // ── 이름 ──
   const input = document.getElementById('site-name'), hint = document.getElementById('name-hint');
   const clean = v => v.toLowerCase().trim().replace(/[\s_]+/g, '-');
