@@ -1,0 +1,530 @@
+[
+ {
+  "en": "tenth thoracic vertebra",
+  "ko": "열째 등뼈",
+  "alt": "제10흉추",
+  "desc": "식도가 가로막을 지나 위장으로 이어지는 높이가 대략 이 뼈입니다. 열째 갈비뼈가 이 뼈에 붙으며, 그 앞쪽은 위 갈비연골에 이어집니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "eleventh thoracic vertebra",
+  "ko": "열한째 등뼈",
+  "alt": "제11흉추",
+  "desc": "앞쪽이 떠 있는 열한째 갈비뼈가 뒤에서 이 뼈에 붙습니다. 아래쪽 등뼈일수록 몸통이 커져 점점 허리뼈 모양을 닮아 갑니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "twelfth thoracic vertebra",
+  "ko": "열두째 등뼈",
+  "alt": "제12흉추",
+  "desc": "열두째 갈비뼈가 붙는 마지막 등뼈로, 아래쪽 관절은 허리뼈를 닮았습니다. 등과 허리가 만나는 곳이라 높은 곳에서 떨어질 때 다치기 쉽습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "first lumbar vertebra",
+  "ko": "첫째 허리뼈",
+  "alt": "제1요추",
+  "desc": "갈비뼈가 붙지 않는 첫 허리뼈로, 등뼈보다 몸통이 크고 두껍습니다. 척수는 대략 이 높이에서 끝나고, 그 아래로는 가는 신경 다발이 이어집니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "first thoracic vertebra",
+  "ko": "첫째 등뼈",
+  "alt": "제1흉추",
+  "desc": "목뼈 바로 아래의 첫 등뼈로, 첫째 갈비뼈가 여기에 붙습니다. 고개를 숙이면 일곱째 목뼈 바로 아래에서 이 뼈의 돌기도 만져집니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "second lumbar vertebra",
+  "ko": "둘째 허리뼈",
+  "alt": "제2요추",
+  "desc": "이 뼈 양옆 앞쪽에는 콩팥 두 개가 자리 잡고 있습니다. 숨쉬기 근육인 가로막의 다리 부분이 이 부근 허리뼈까지 내려와 붙습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "second thoracic vertebra",
+  "ko": "둘째 등뼈",
+  "alt": "제2흉추",
+  "desc": "둘째 갈비뼈의 뒤쪽 끝이 이 뼈와 첫째 등뼈 사이에 걸쳐 붙습니다. 팔을 내리고 서면 어깨뼈의 안쪽 위 모서리가 대략 이 높이에 옵니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "third cervical vertebra",
+  "ko": "셋째 목뼈",
+  "alt": "제3경추",
+  "desc": "중쇠뼈 바로 아래 뼈로, 여기서부터 생김새가 비슷한 목뼈가 이어집니다. 혀뿌리를 받치는 목뿔뼈가 대략 이 뼈 앞쪽 높이에 있습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "third lumbar vertebra",
+  "ko": "셋째 허리뼈",
+  "alt": "제3요추",
+  "desc": "가슴우리 아래 테두리의 가장 낮은 곳이 대략 이 뼈 높이에 있습니다. 허리를 펴고 앉으면 허리뼈가 앞으로 살짝 휜 자연스러운 곡선이 지켜집니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "third thoracic vertebra",
+  "ko": "셋째 등뼈",
+  "alt": "제3흉추",
+  "desc": "어깨뼈 뒷면에 가로로 솟은 능선이 대략 이 높이에서 시작됩니다. 어깨를 움츠리지 말고 펴면 등 위쪽이 굽지 않도록 도울 수 있습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "fourth cervical vertebra",
+  "ko": "넷째 목뼈",
+  "alt": "제4경추",
+  "desc": "일곱 목뼈의 한가운데 뼈로, 양옆 작은 구멍 속으로 뇌에 가는 혈관이 지납니다. 목 옆에서 맥박을 짚는 목동맥이 대략 이 높이에서 두 갈래로 나뉩니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "fourth lumbar vertebra",
+  "ko": "넷째 허리뼈",
+  "alt": "제4요추",
+  "desc": "허리에 손을 얹을 때 닿는 골반 위 끝을 이은 선이 대략 이 뼈를 지납니다. 배 속 대동맥이 대략 이 높이에서 양쪽 다리로 가는 동맥으로 갈라집니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "fourth thoracic vertebra",
+  "ko": "넷째 등뼈",
+  "alt": "제4흉추",
+  "desc": "온몸으로 피를 보내는 대동맥이 활처럼 휜 뒤 대략 이 높이에서 아래로 향합니다. 갈비뼈와 함께 가슴우리 뒤쪽을 이루어 심장과 허파를 지켜 줍니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "fifth cervical vertebra",
+  "ko": "다섯째 목뼈",
+  "alt": "제5경추",
+  "desc": "팔을 움직이는 신경들이 대략 이 부근부터 목에서 나오기 시작합니다. 책이나 화면을 눈높이로 올리면 목에 걸리는 부담을 줄일 수 있습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "fifth lumbar vertebra",
+  "ko": "다섯째 허리뼈",
+  "alt": "제5요추",
+  "desc": "움직이는 척추뼈 가운데 몸통이 가장 크고 두꺼운 마지막 허리뼈입니다. 아래의 엉치뼈와 만나 윗몸의 무게를 골반으로 전해 줍니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "fifth thoracic vertebra",
+  "ko": "다섯째 등뼈",
+  "alt": "제5흉추",
+  "desc": "뒤로 뻗은 가시돌기가 길고 아래로 기울어 기왓장처럼 겹쳐 있습니다. 이렇게 겹친 돌기 때문에 등은 뒤로 젖히는 움직임이 작습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "sixth cervical vertebra",
+  "ko": "여섯째 목뼈",
+  "alt": "제6경추",
+  "desc": "대략 이 높이에서 목구멍은 식도로, 후두는 기관으로 이어집니다. 목 앞쪽에서 만져지는 반지 모양의 연골도 대략 이 높이에 있습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "sixth thoracic vertebra",
+  "ko": "여섯째 등뼈",
+  "alt": "제6흉추",
+  "desc": "열두 개 등뼈의 한가운데쯤에 있고, 앞쪽에는 심장이 자리합니다. 구부정한 자세가 오래되면 등 가운데가 둥글게 굽기 쉬우니 가슴을 폅니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "seventh cervical vertebra",
+  "ko": "일곱째 목뼈",
+  "alt": "제7경추",
+  "desc": "고개를 숙이면 목 뒤 아래쪽에 볼록 튀어나와 손으로 만져지는 뼈입니다. 뒤로 뻗은 가시돌기가 유난히 길어 '솟을뼈'라고도 부릅니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "seventh thoracic vertebra",
+  "ko": "일곱째 등뼈",
+  "alt": "제7흉추",
+  "desc": "팔을 내리고 서면 어깨뼈 아래 끝이 대략 이 높이에 옵니다. 복장뼈에 바로 붙는 마지막 갈비뼈인 일곱째 갈비뼈가 이 뼈와 이어집니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "eighth thoracic vertebra",
+  "ko": "여덟째 등뼈",
+  "alt": "제8흉추",
+  "desc": "몸 아래쪽 피를 심장으로 모으는 큰 정맥이 대략 이 높이에서 가로막을 지납니다. 여덟째 갈비뼈가 붙는 곳으로, 이 갈비뼈부터는 앞쪽이 복장뼈에 바로 닿지 않습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "ninth thoracic vertebra",
+  "ko": "아홉째 등뼈",
+  "alt": "제9흉추",
+  "desc": "복장뼈 몸통과 맨 아래 칼돌기가 만나는 곳이 대략 이 뼈 높이에 있습니다. 가방은 두 어깨에 메어 무게가 등뼈 한쪽으로 쏠리지 않게 합니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "atlas",
+  "ko": "고리뼈",
+  "alt": "첫째 목뼈 · 환추",
+  "desc": "머리뼈를 바로 받치는 고리 모양의 첫째 목뼈입니다. 고개를 위아래로 끄덕일 때 머리뼈와 이 뼈 사이 관절이 움직입니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "axis",
+  "ko": "중쇠뼈",
+  "alt": "둘째 목뼈 · 축추",
+  "desc": "위로 솟은 치아돌기가 맷돌의 중쇠처럼 축 역할을 하는 둘째 목뼈입니다. 이 축을 중심으로 고리뼈가 돌아 고개를 좌우로 돌릴 수 있습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of axis",
+  "ko": "둘째·셋째 목뼈 사이 원반",
+  "alt": "추간판 C2–C3",
+  "desc": "목에서 가장 위에 있는 원반으로, 흔히 디스크라고 부르는 쿠션입니다. 머리뼈와 고리뼈, 고리뼈와 중쇠뼈 사이에는 원반이 없습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of fourth thoracic vertebra",
+  "ko": "넷째·다섯째 등뼈 사이 원반",
+  "alt": "추간판 T4–T5",
+  "desc": "가슴 앞 복장뼈각 높이로, 대략 이 앞쪽에서 기관이 양쪽 기관지로 갈라집니다. 다섯째 갈비뼈 머리도 이 원반 옆에 맞닿아 있습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of fifth thoracic vertebra",
+  "ko": "다섯째·여섯째 등뼈 사이 원반",
+  "alt": "추간판 T5–T6",
+  "desc": "여섯째 갈비뼈 머리가 이 원반과 위아래 등뼈 사이에 끼워져 있습니다. 원반 가운데는 물이 많은 젤리 같은 속질핵으로 되어 있습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of sixth thoracic vertebra",
+  "ko": "여섯째·일곱째 등뼈 사이 원반",
+  "alt": "추간판 T6–T7",
+  "desc": "등 한가운데 높이의 원반으로, 일곱째 갈비뼈 머리가 옆에 붙습니다. 원반 바깥은 질긴 섬유가 양파 껍질처럼 여러 겹 둘러싸고 있습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of seventh thoracic vertebra",
+  "ko": "일곱째·여덟째 등뼈 사이 원반",
+  "alt": "추간판 T7–T8",
+  "desc": "앞쪽에 심장이 놓인 높이로, 여덟째 갈비뼈 머리가 이 원반에 닿습니다. 낮 동안 원반이 눌려 얇아지므로 아침 키가 저녁보다 조금 큽니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of eighth thoracic vertebra",
+  "ko": "여덟째·아홉째 등뼈 사이 원반",
+  "alt": "추간판 T8–T9",
+  "desc": "갈비뼈 머리가 닿는 원반 가운데 대개 맨 아래로, 아홉째 갈비뼈가 닿습니다. 원반을 모두 합한 두께는 척추 전체 길이의 4분의 1 가까이 됩니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of ninth thoracic vertebra",
+  "ko": "아홉째·열째 등뼈 사이 원반",
+  "alt": "추간판 T9–T10",
+  "desc": "등 아래쪽 원반으로, 위쪽 등 원반보다 조금 더 두껍습니다. 뛰거나 점프할 때 위아래 등뼈 사이에서 충격을 나누어 받습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of tenth thoracic vertebra",
+  "ko": "열째·열한째 등뼈 사이 원반",
+  "alt": "추간판 T10–T11",
+  "desc": "위쪽 등보다 굽히고 펴는 움직임이 조금 더 큰 아래쪽 등의 원반입니다. 원반 안쪽에는 혈관이 거의 없어 주변에서 스며드는 영양분으로 지냅니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of eleventh thoracic vertebra",
+  "ko": "열한째·열두째 등뼈 사이 원반",
+  "alt": "추간판 T11–T12",
+  "desc": "앞쪽이 떠 있는 갈비뼈가 붙은 두 등뼈 사이에 있는 원반입니다. 등 원반 탈출증은 드물지만, 생긴다면 이런 아래쪽 등에서 주로 생깁니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk (between T12 and L1)",
+  "ko": "열두째 등뼈와 첫째 허리뼈 사이 원반",
+  "alt": "추간판 T12–L1",
+  "desc": "등과 허리가 만나는 원반으로, 위는 덜 움직이고 아래는 잘 움직입니다. 무거운 짐을 든 채 허리를 비틀면 원반에 부담이 커지니 조심합니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of first lumbar vertebra",
+  "ko": "첫째·둘째 허리뼈 사이 원반",
+  "alt": "추간판 L1–L2",
+  "desc": "허리뼈끼리 만나는 원반 가운데 가장 위에 있는 원반입니다. 허리를 앞으로 숙이면 원반 앞쪽은 눌리고 뒤쪽은 늘어납니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of third cervical vertebra",
+  "ko": "셋째·넷째 목뼈 사이 원반",
+  "alt": "추간판 C3–C4",
+  "desc": "이 높이에서 나온 신경 가지가 숨쉬기 근육인 가로막을 움직이는 데 쓰입니다. 목 원반은 앞쪽이 조금 더 두꺼워 목이 앞으로 볼록하게 휘도록 돕습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of second lumbar vertebra",
+  "ko": "둘째·셋째 허리뼈 사이 원반",
+  "alt": "추간판 L2–L3",
+  "desc": "둘째와 셋째 허리뼈 사이의 두꺼운 원반으로, 윗몸 무게를 받아 줍니다. 오래 앉아 있었다면 가끔 일어나 허리를 펴 주는 것이 좋습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of third lumbar vertebra",
+  "ko": "셋째·넷째 허리뼈 사이 원반",
+  "alt": "추간판 L3–L4",
+  "desc": "배꼽 높이의 등 쪽에 대략 이 원반이 있어 위치를 찾기 쉽습니다. 구부정하게 앞으로 숙여 앉으면 허리 원반이 받는 압력이 커집니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of fourth lumbar vertebra",
+  "ko": "넷째·다섯째 허리뼈 사이 원반",
+  "alt": "추간판 L4–L5",
+  "desc": "허리 원반 탈출증, 흔히 말하는 허리 디스크가 가장 잘 생기는 곳 가운데 하나입니다. 무거운 물건은 무릎을 굽혀 몸 가까이 붙인 채 들어야 합니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of fifth lumbar vertebra",
+  "ko": "다섯째 허리뼈와 엉치뼈 사이 원반",
+  "alt": "추간판 L5–S1",
+  "desc": "허리뼈와 엉치뼈 사이의 원반으로, 앞쪽이 두꺼운 쐐기 모양입니다. 이곳 원반이 밀려 나와 신경을 누르면 엉덩이나 다리가 저리고 아플 수 있습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of fourth cervical vertebra",
+  "ko": "넷째·다섯째 목뼈 사이 원반",
+  "alt": "추간판 C4–C5",
+  "desc": "이 원반 옆 틈으로 나온 신경은 팔을 옆으로 드는 어깨 근육을 움직입니다. 고개를 숙이고 젖힐 때 목 가운데에서 눌리고 늘어나며 충격을 줄입니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of fifth cervical vertebra",
+  "ko": "다섯째·여섯째 목뼈 사이 원반",
+  "alt": "추간판 C5–C6",
+  "desc": "목 원반 탈출증, 흔히 말하는 목 디스크가 자주 생기는 곳입니다. 스마트폰은 고개를 숙이지 말고 눈높이로 들어 보는 습관이 좋습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of sixth cervical vertebra",
+  "ko": "여섯째·일곱째 목뼈 사이 원반",
+  "alt": "추간판 C6–C7",
+  "desc": "여기서 갈라져 나오는 신경은 팔꿈치를 펴는 근육에 명령을 전합니다. 고개를 앞으로 쭉 뺀 거북목 자세는 아래쪽 목 원반에 부담을 줍니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of seventh cervical vertebra",
+  "ko": "일곱째 목뼈와 첫째 등뼈 사이 원반",
+  "alt": "추간판 C7–T1",
+  "desc": "잘 움직이는 목과 갈비뼈로 단단한 가슴이 만나는 곳의 원반입니다. 이곳에서 나오는 신경은 손가락을 움직이는 손과 아래팔 근육으로 갑니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of first thoracic vertebra",
+  "ko": "첫째·둘째 등뼈 사이 원반",
+  "alt": "추간판 T1–T2",
+  "desc": "첫째와 둘째 등뼈 사이로, 둘째 갈비뼈 머리가 이 원반 옆에 닿습니다. 등 위쪽 원반은 몸 전체 원반 가운데 가장 얇은 편입니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of second thoracic vertebra",
+  "ko": "둘째·셋째 등뼈 사이 원반",
+  "alt": "추간판 T2–T3",
+  "desc": "목 아래 복장뼈 위쪽의 오목한 곳이 대략 이 원반 높이에 있습니다. 얇은 원반과 갈비뼈 때문에 위쪽 등은 잘 굽거나 젖혀지지 않습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "intervertebral disk of third thoracic vertebra",
+  "ko": "셋째·넷째 등뼈 사이 원반",
+  "alt": "추간판 T3–T4",
+  "desc": "넷째 갈비뼈 머리가 닿는 원반으로, 앞쪽으로 기관과 식도가 지나갑니다. 숨 쉴 때 갈비뼈가 움직이면 이 원반 옆 관절도 함께 움직입니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "tenth rib",
+  "ko": "열째 갈비뼈",
+  "alt": "제10늑골",
+  "desc": "앞쪽 연골이 아홉째 갈비연골에 이어 붙는 마지막 갈비뼈입니다. 이 갈비뼈의 연골이 가슴 아래 테두리에서 가장 낮은 곳을 이룹니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "eleventh rib",
+  "ko": "열한째 갈비뼈",
+  "alt": "제11늑골",
+  "desc": "앞끝이 복장뼈에 닿지 않고 배 옆 근육 속에 떠 있는 갈비뼈입니다. 옆구리 아래쪽을 누르면 이 갈비뼈의 끝이 만져지기도 합니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "twelfth rib",
+  "ko": "열두째 갈비뼈",
+  "alt": "제12늑골",
+  "desc": "앞쪽이 떠 있는 맨 아래 갈비뼈로, 길이가 짧은 편입니다. 등 쪽에서 콩팥 윗부분 뒤를 비스듬히 가로질러 지나갑니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "first rib",
+  "ko": "첫째 갈비뼈",
+  "alt": "제1늑골",
+  "desc": "복장뼈에 바로 붙는 맨 위 갈비뼈로, 넓고 납작하며 가장 심하게 휘었습니다. 빗장뼈 밑에 숨어 있고, 팔로 가는 혈관과 신경이 이 뼈 위를 지납니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "second rib",
+  "ko": "둘째 갈비뼈",
+  "alt": "제2늑골",
+  "desc": "복장뼈 위쪽의 볼록한 복장뼈각 옆에 연골로 바로 붙는 갈비뼈입니다. 그래서 가슴 앞에서 갈비뼈 번호를 셀 때 기준으로 삼습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "third rib",
+  "ko": "셋째 갈비뼈",
+  "alt": "제3늑골",
+  "desc": "생김새가 서로 비슷한 셋째부터 아홉째 갈비뼈 가운데 첫 번째입니다. 자기 갈비연골을 거쳐 복장뼈에 바로 붙어 가슴 위쪽을 감쌉니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "fourth rib",
+  "ko": "넷째 갈비뼈",
+  "alt": "제4늑골",
+  "desc": "가슴 한가운데 높이의 갈비뼈로, 연골을 거쳐 복장뼈에 바로 붙습니다. 숨을 들이쉬면 펌프 손잡이처럼 앞쪽이 들려 가슴이 앞뒤로 넓어집니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "fifth rib",
+  "ko": "다섯째 갈비뼈",
+  "alt": "제5늑골",
+  "desc": "복장뼈에 바로 붙는 갈비뼈로, 왼쪽은 바로 아래 틈에서 심장 박동이 느껴집니다. 숨을 다 내쉬면 가로막 꼭대기가 대략 이 갈비뼈 높이까지 올라옵니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "sixth rib",
+  "ko": "여섯째 갈비뼈",
+  "alt": "제6늑골",
+  "desc": "복장뼈에 바로 붙는 갈비뼈로, 평소 허파 아래 끝이 앞쪽에서 대략 이 높이에 옵니다. 숨을 크게 들이쉬면 허파가 늘어나 이보다 더 아래로 내려옵니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "seventh rib",
+  "ko": "일곱째 갈비뼈",
+  "alt": "제7늑골",
+  "desc": "자기 갈비연골로 복장뼈에 바로 붙는 마지막 갈비뼈입니다. 길이가 가장 긴 갈비뼈 가운데 하나로 가슴우리 아래쪽을 넓게 감쌉니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "eighth rib",
+  "ko": "여덟째 갈비뼈",
+  "alt": "제8늑골",
+  "desc": "앞쪽 연골이 복장뼈에 바로 닿지 않고 일곱째 갈비연골에 이어 붙습니다. 숨을 들이쉬면 양동이 손잡이처럼 옆으로 들려 가슴이 좌우로 넓어집니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "ninth rib",
+  "ko": "아홉째 갈비뼈",
+  "alt": "제9늑골",
+  "desc": "앞쪽 연골이 여덟째 갈비연골에 이어 붙어 복장뼈와 간접적으로 이어집니다. 왼쪽 아홉째에서 열한째 갈비뼈 안쪽에는 지라(비장)가 보호받고 있습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "first costal cartilage",
+  "ko": "첫째 갈비연골",
+  "alt": "제1늑연골",
+  "desc": "복장뼈 맨 위 자루 부분에 단단히 붙어 거의 움직이지 않는 연골입니다. 빗장뼈와 복장뼈가 만나는 관절 바로 아래에 있습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "second costal cartilage",
+  "ko": "둘째 갈비연골",
+  "alt": "제2늑연골",
+  "desc": "복장뼈자루와 몸통이 만나는 볼록한 복장뼈각 옆에 붙습니다. 목 아래 오목한 곳에서 손가락을 내리면 만져지는 볼록한 곳 옆에 있습니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "third costal cartilage",
+  "ko": "셋째 갈비연골",
+  "alt": "제3늑연골",
+  "desc": "복장뼈 몸통 위쪽에 붙어 셋째 갈비뼈를 복장뼈에 이어 줍니다. 숨을 들이쉴 때 살짝 비틀렸다가 내쉴 때 용수철처럼 되돌아옵니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "fourth costal cartilage",
+  "ko": "넷째 갈비연골",
+  "alt": "제4늑연골",
+  "desc": "넷째 갈비뼈를 복장뼈 몸통에 이어 주며, 뒤쪽 가까이에 심장이 있습니다. 뼈보다 말랑하고 잘 휘어 숨 쉴 때 가슴벽에 탄력을 줍니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "fifth costal cartilage",
+  "ko": "다섯째 갈비연골",
+  "alt": "제5늑연골",
+  "desc": "바깥에서 비스듬히 내려오다 꺾여 위로 올라가 복장뼈 몸통에 붙습니다. 나이가 들면 갈비연골이 점점 굳어 가슴의 탄력이 줄어듭니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "sixth costal cartilage",
+  "ko": "여섯째 갈비연골",
+  "alt": "제6늑연골",
+  "desc": "복장뼈 몸통 아래쪽에 붙으며, 심폐소생술 때 누르는 자리와 가깝습니다. 가슴 압박은 이 연골이 아니라 가슴 가운데 복장뼈 아래쪽 절반을 눌러야 합니다.",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "en": "seventh costal cartilage",
+  "ko": "일곱째 갈비연골",
+  "alt": "제7늑연골",
+  "desc": "가장 긴 갈비연골로, 복장뼈 아래 끝 칼돌기 가까이에 붙습니다. 여기에 아래 갈비연골들이 차례로 이어져 가슴 아래 테두리를 이룹니다.",
+  "confidence": "high",
+  "note": ""
+ }
+]
